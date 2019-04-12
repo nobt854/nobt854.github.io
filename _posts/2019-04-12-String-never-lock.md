@@ -64,7 +64,7 @@
     	
     	public static void main(String[] args) {
     		
-    		//这个例子会由于锁都是字符串stringLock，导致线程B一直拿不到资源，因为AA是同一个锁，所以String类型一般不作为锁对象（把锁换成其他类型就可以了）
+    		//这个例子会由于锁都是字符串stringLock，导致线程B一直拿不到资源，因为字符串stringLock是常量池共享的（同一个），所以String类型一般不作为锁对象（把锁换成其他类型就可以了，比如new Object()）
     		ThreadService ts =  new ThreadService();
     		ThreadA a = new ThreadA(ts);
     		a.setName("A");
