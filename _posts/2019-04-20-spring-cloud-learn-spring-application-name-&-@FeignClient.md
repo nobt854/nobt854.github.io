@@ -21,7 +21,7 @@
 
 注解`org.springframework.core.annotation.AliasFor`
 
-Sprint的这个注解，具有对等性，也就是两个注解值互相使用
+Spring的这个注解，具有对等性，也就是两个注解值互相使用
 在使用此注解时不能同时指定两个`name`和`value`不同的值，否则报错
 
 换句话说，name和value任意指定其中之一的值就行了，作用一样
