@@ -101,8 +101,5 @@ page-mathjax: false
 
 # Friends
 friends: [
-    {
-        title: "黑客派",
-        href: "http://hacpai.com/"
-    }
+   
 ]
