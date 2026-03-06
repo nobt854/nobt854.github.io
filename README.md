@@ -23,14 +23,13 @@ This is nobt's technical blog, focusing on:
 | # | Trait | Description |
 |---|-------|-------------|
 | 1 | ☕ **Java Developer** | Concurrent programming enthusiast |
-| 2 | 🤖 **AI Power User** | 713+ Claude Code sessions |
+| 2 | 🤖 **AI Power User** | Proficient in using AI programming assistants to improve development efficiency |
 | 3 | ⚙️ **System Builder** | Built complete Skills and memory system |
 | 4 | ✅ **Evidence First** | Believes "Evidence > Speed", always verifies before claiming done |
-| 5 | 🔄 **Workflow Optimizer** | Designed IDEA + Claude Code graphical workflow |
-| 6 | 📚 **Knowledge Manager** | Built complete personal knowledge tracking system |
-| 7 | ✂️ **Subtraction Advocate** | "The best system is one that can't be reduced further" |
-| 8 | 📝 **Writing Standard Setter** | Created detailed blog writing guidelines |
-| 9 | 😄 **Humorous Writer** | Blog language is conversational and witty |
+| 5 | 📚 **Knowledge Manager** | Built complete personal knowledge tracking system |
+| 6 | ✂️ **Subtraction Advocate** | "The best system is one that can't be reduced further" |
+| 7 | 📝 **Writing Standard Setter** | Created detailed blog writing guidelines |
+| 8 | 😄 **Humorous Writer** | Blog language is conversational and witty |
 
 ---
 
