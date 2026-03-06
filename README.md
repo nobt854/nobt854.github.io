@@ -28,8 +28,6 @@ This is nobt's technical blog, focusing on:
 | 4 | ✅ **Evidence First** | Believes "Evidence > Speed", always verifies before claiming done |
 | 5 | 📚 **Knowledge Manager** | Built complete personal knowledge tracking system |
 | 6 | ✂️ **Subtraction Advocate** | "The best system is one that can't be reduced further" |
-| 7 | 📝 **Writing Standard Setter** | Created detailed blog writing guidelines |
-| 8 | 😄 **Humorous Writer** | Blog language is conversational and witty |
 
 ---
 
