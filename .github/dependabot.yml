@@ -1,0 +1,10 @@
+version: 2
+updates:
+  # 禁用 npm 依赖检查（已移除 grunt 依赖）
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "monthly"
+    open-pull-requests-limit: 0
+    ignore:
+      - dependency-name: "*"
