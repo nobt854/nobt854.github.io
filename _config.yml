@@ -58,10 +58,10 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+disqus_username: ''
 
 # Netease settings
-netease_comment: false
+netease_comment: false  # 已关闭网易云评论
 
 
 
