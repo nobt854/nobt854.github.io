@@ -8,8 +8,6 @@ author: nobt854
 catalog: true
 ---
 
-事情是这样的。
-
 用了一段时间纯 CLI 的 Claude Code 后，我发现有些操作是真的不方便：
 
 > 想看文件差异？`diff` 命令输出看瞎眼。
