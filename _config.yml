@@ -78,7 +78,7 @@ ga_domain: auto
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Spicy eyes<br>辣眼睛"
-sidebar-avatar: /img/avatar-nobt-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar-202603.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
