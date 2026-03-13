@@ -106,7 +106,7 @@
 ```markdown
 ---
 layout: post
-title: "[观点] 标题"
+title: "标题"
 date: YYYY-MM-DD
 categories: blog
 tags: [观点，标签 2]
@@ -115,7 +115,7 @@ author: nobt854
 
 ## 💭 核心观点
 
-> [用户观点原文，使用引用块呈现]
+> [用户观点原文，仅仅针对语法和标点符号等对原文进行必要润色，使用引用块呈现]
 
 ## 🎨 图解
 

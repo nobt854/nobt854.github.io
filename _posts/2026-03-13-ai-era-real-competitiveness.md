@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[观点] AI 时代，普通人要搞清楚别人实际产出了什么"
+title: "AI 时代，普通人要搞清楚别人实际产出了什么"
 date: 2026-03-13
 categories: blog
 tags: [观点，AI 思维，竞争力]
