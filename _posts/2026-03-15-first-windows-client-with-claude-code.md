@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "用 Claude Code 做出第一个 Windows 客户端：一次"不敢想"的尝试"
+title: "用 Claude Code 做出第一个 Windows 客户端：一次'不敢想'的尝试"
 date: 2026-03-15
 categories: blog
 tags: [AI Agent, Claude Code, Windows, 客户端开发, 个人成长]
