@@ -167,21 +167,7 @@ Claude Code: 给你几个选项：
 
 **当第一个可运行的 exe 出现在面前时：**
 
-```
-   ╭─────────────────────────────╮
-   │  nobt-crab                  │
-   ├─────────────────────────────┤
-   │                             │
-   │      \|o/|                  │
-   │       ◇ YEAH!               │
-   │      □□□                    │
-   │                             │
-   │    Task Completed!          │
-   │                             │
-   │    Task Completed!          │
-   │                             │
-   ╰─────────────────────────────╯
-```
+![windows-software-nobt-crab.png](../img/windows-software-nobt-crab.png)
 
 **那种感觉：**
 - 不是抄的，是一行一行写出来的
