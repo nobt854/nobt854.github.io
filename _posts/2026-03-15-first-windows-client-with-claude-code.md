@@ -167,11 +167,11 @@ Claude Code: 给你几个选项：
 
 **当第一个可运行的 exe 出现在面前时：**
 
-![windows-software-nobt-crab.png](https://github.com/nobt854/nobt854.github.io/blob/master/img/windows-software-nobt-crab.png)
+![windows-software-nobt-crab.png](https://raw.githubusercontent.com/nobt854/nobt854.github.io/master/img/windows-software-nobt-crab.png)
 
 继续用过claude code优化
 
-![windows-software-nobt-crab-fix.png](https://github.com/nobt854/nobt854.github.io/blob/master/img/windows-software-nobt-crab-fix.png)
+![windows-software-nobt-crab-fix.png](https://raw.githubusercontent.com/nobt854/nobt854.github.io/master/img/windows-software-nobt-crab-fix.png)
 
 
 **那种感觉：**
