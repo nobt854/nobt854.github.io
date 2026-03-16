@@ -169,6 +169,11 @@ Claude Code: 给你几个选项：
 
 ![windows-software-nobt-crab.png](../img/windows-software-nobt-crab.png)
 
+继续用过claude code优化
+
+![windows-software-nobt-crab-fix.png](../img/windows-software-nobt-crab-fix.png)
+
+
 **那种感觉：**
 - 不是抄的，是一行一行写出来的
 - 不是别人教的，是边做边学学会的
