@@ -139,14 +139,3 @@ catalog: true
 - 会限制网络和外部输入，知道 prompt injection 风险
 - 会把 Codex 用在真实工程流里，而不是只拿来问零散问题
 
----
-
-## 🧩 你现在最值得做的第一步
-
-不是继续看概念，而是马上搭一套最小工作流：
-
-- `~/.codex/config.toml`
-- 项目根 `AGENTS.md`
-- 配上 OpenAI Docs MCP：<https://platform.openai.com/docs/docs-mcp>
-
-如果你要，我下一条可以直接给你一份“Claude Code 用户迁移到 Codex 的 14 天实战清单”，按每天做什么、写什么 `AGENTS.md`、怎么练 prompt、怎么验收来列。
