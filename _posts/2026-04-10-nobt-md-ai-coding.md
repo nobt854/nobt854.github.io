@@ -77,13 +77,13 @@ AI Coding 帮我完成了：
 
 nobt-md 安装后会自动关联 .md 文件，右键菜单直接选择打开：
 
-![文件关联](/assets/nobt-md/context-menu.png)
+![文件关联](/img/blog/nobt-md-ai-coding/context-menu.png)
 
 ### 编辑界面
 
 简洁的三栏布局：大纲导航 + 编辑区 + 预览区。
 
-![编辑界面](/assets/nobt-md/editor-light.png)
+![编辑界面](/img/blog/nobt-md-ai-coding/editor-light.png)
 
 ### 主题切换
 
@@ -96,13 +96,13 @@ nobt-md 安装后会自动关联 .md 文件，右键菜单直接选择打开：
 | 深蓝 | 专注模式，沉浸体验 |
 | 简约蛋黄 | 温暖柔和，长时间阅读 |
 
-![主题切换](/assets/nobt-md/theme-yellow.png)
+![主题切换](/img/blog/nobt-md-ai-coding/theme-yellow.png)
 
 ### 设置面板
 
 所有个性化设置，集中在一个面板：
 
-![设置面板](/assets/nobt-md/settings.png)
+![设置面板](/img/blog/nobt-md-ai-coding/settings.png)
 
 ---
 
