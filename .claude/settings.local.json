@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:nobt854.github.io)",
+      "WebFetch(domain:jina.ai)",
+      "WebFetch(domain:github.com)",
+      "Bash(bundle exec:*)",
+      "Bash(powershell:*)"
+    ]
+  }
+}

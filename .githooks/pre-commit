@@ -1,0 +1,6 @@
+#!/bin/sh
+node scripts/sync-post-images.js --stage
+status=$?
+if [ $status -ne 0 ]; then
+  exit $status
+fi

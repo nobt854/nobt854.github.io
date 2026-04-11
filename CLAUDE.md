@@ -316,6 +316,21 @@ author: nobt854
 
 ## 格式约束规则
 
+### 0. 图片路径规则
+
+**规则**：博客正文图片统一落在 `img/blog/<文章 slug>/` 下，正文统一使用 `/img/blog/<文章 slug>/<文件名>` 形式引用。
+
+✅ 正确示例：
+```markdown
+![示意图](/img/blog/claude-code-ide-workflow/image.png)
+```
+
+**自动化要求**：
+- 可先在草稿中使用本地图片路径或 `assets/...` 路径
+- 提交前必须同步到 `img/blog/<文章 slug>/`
+- 提交前必须将正文图片链接改写为 `/img/blog/<文章 slug>/<文件名>`
+- 优先执行仓库脚本：`npm run sync:post-images`
+
 ### 1. 表格强制转换
 
 **规则**：发布前检查同类内容，如多行同类型数据未转为表格样式，必须转换
