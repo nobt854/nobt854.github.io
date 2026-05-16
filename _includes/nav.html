@@ -24,7 +24,8 @@
                         <a href="{{ site.baseurl }}/">Home</a>
                     </li>
                     {% for page in site.pages %}
-                    {% if page.title and page.hide-in-nav != true %}
+                    {% assign page_ext = page.path | split: '.' | last %}
+                    {% if page.title and page.hide-in-nav != true and page_ext == "html" %}
                     <li>
                         <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
                     </li>
