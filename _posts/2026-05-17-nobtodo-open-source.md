@@ -135,7 +135,7 @@ http://127.0.0.1:8189
 数据目录默认在：
 
 ```text
-D:\AiCoding_project\nobt-todo\data\
+/nobt-todo/data/
 ```
 
 如果你把项目放在其它位置，数据也会跟随当前项目目录保存到对应的 `data` 目录里。
